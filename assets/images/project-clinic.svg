@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-label="Healthcare facility turnkey renovation and layout planning, Prayagraj — photo pending">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <defs>
+    <pattern id="gridClinic" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M 25 0 L 0 0 0 25" fill="none" stroke="#E2E8F0" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#gridClinic)"/>
+  <rect x="20" y="20" width="560" height="360" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="6,6"/>
+  
+  <!-- Clinic / Healthcare wireframe -->
+  <rect x="170" y="110" width="260" height="150" fill="#E2E8F0" stroke="#64748B" stroke-width="2"/>
+  <!-- Healthcare cross badge -->
+  <rect x="280" y="140" width="40" height="40" rx="4" fill="#FFFFFF" stroke="#94A3B8"/>
+  <rect x="295" y="148" width="10" height="24" fill="#C25E2E"/>
+  <rect x="288" y="155" width="24" height="10" fill="#C25E2E"/>
+  <line x1="170" y1="210" x2="430" y2="210" stroke="#CBD5E1" stroke-width="2"/>
+  <rect x="270" y="210" width="60" height="50" fill="#CBD5E1" stroke="#64748B" stroke-width="2"/>
+
+  <!-- Badge & Text -->
+  <rect x="130" y="300" width="340" height="32" rx="4" fill="#C25E2E"/>
+  <text x="300" y="321" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">[PROJECT PHOTO PENDING CLIENT UPLOAD]</text>
+  <text x="300" y="355" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0F172A" text-anchor="middle">Healthcare Clinic Turnkey Renovation | Prayagraj</text>
+</svg>

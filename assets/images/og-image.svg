@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Griha Architects - Architecture and Interior Design Prayagraj">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <pattern id="ogGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="1" stroke-opacity="0.4"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bgGrad)"/>
+  <rect width="100%" height="100%" fill="url(#ogGrid)"/>
+  
+  <!-- Architectural line accent -->
+  <path d="M 100 480 L 350 180 L 600 480" fill="none" stroke="#C25E2E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 220 480 L 350 320 L 480 480" fill="none" stroke="#94A3B8" stroke-width="3" stroke-linecap="round"/>
+  <line x1="80" y1="480" x2="620" y2="480" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Typography -->
+  <text x="680" y="240" font-family="system-ui, sans-serif" font-size="44" font-weight="800" fill="#FFFFFF" letter-spacing="2">GRIHA ARCHITECTS</text>
+  <text x="680" y="295" font-family="system-ui, sans-serif" font-size="24" font-weight="600" fill="#C25E2E" letter-spacing="1.5">ARCHITECTURE &amp; INTERIOR DESIGN</text>
+  <text x="680" y="345" font-family="system-ui, sans-serif" font-size="20" fill="#CBD5E1">Civil Lines, Prayagraj, Uttar Pradesh</text>
+  <text x="680" y="390" font-family="system-ui, sans-serif" font-size="18" fill="#94A3B8">Ar. Chandan Singh (Chandan Singh Bhartiya)</text>
+  
+  <rect x="680" y="430" width="360" height="50" rx="6" fill="#C25E2E"/>
+  <text x="860" y="462" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">Phone / WhatsApp: +91 93692 13111</text>
+</svg>
